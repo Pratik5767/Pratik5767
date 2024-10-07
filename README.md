@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratik5767" alt="pratik5767" /></a> </p>
 
-- 🔭 I’m currently working on [ATM Simulator Machin](https://github.com/Pratik5767/ATM-Simulator-System)
+- 🔭 I’m currently working on [ATM Simulator Machine](https://github.com/Pratik5767/ATM-Simulator-System)
 
 - 🌱 I’m currently learning **Java, MYSQL, JDBC, Spring core, Spring Boot, Microservices**
 
