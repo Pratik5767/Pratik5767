@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Vishwas Salunkhe</h1>
-<h3 align="center">A passionate Full stack developer from India with strong skills in Programming, looking to develop or expand my career in technology</h3>
+<h3 align="center">A passionate Full stack developer from India with strong skills in Programming, looking to develop and expand my career in various technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik5767&label=Profile%20views&color=0e75b6&style=flat" alt="pratik5767" /> </p>
 
