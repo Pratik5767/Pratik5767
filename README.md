@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik5767&label=Profile%20views&color=0e75b6&style=flat" alt="pratik5767" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratik5767" alt="pratik5767" /></a> </p>
-
 - 🔭 I’m currently working on [Hotel Management System](https://github.com/Pratik5767/Hotel-Management-System)
 
 - 🌱 I’m currently learning **Java, MYSQL, JDBC, Spring core, Spring Boot, Microservices**
