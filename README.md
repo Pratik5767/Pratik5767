@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik5767&label=Profile%20views&color=0e75b6&style=flat" alt="pratik5767" /> </p>
 
-# 💫 About Me:
+## 💫 About Me:
 
 - 🔭 I’m currently working on [Hotel Management System](https://github.com/Pratik5767/Hotel-Management-System)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pratikvsalunkhe924@gmail.com**
 
-## 🌐 Connect with me:
+## 🌐 Let's connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratik_salunkhe990)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-salunkhe-84157a269/)
 
@@ -52,8 +52,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik5767&show_icons=true&locale=en&layout=compact" alt="pratik5767" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik5767&show_icons=true&locale=en" alt="pratik5767" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratik5767&" alt="pratik5767" /></p>
