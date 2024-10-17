@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, MYSQL, JDBC, Spring core, Spring Boot, Microservices**
 
-- 👯 I’m looking to collaborate on **Full stack Projects, Backend Projects**
+- 👯 I’m looking to collaborate on **Java, Python, Full stack Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pratik5767](https://github.com/Pratik5767)
 
