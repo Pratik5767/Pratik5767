@@ -5,7 +5,7 @@
 
 ## 💫 About Me:
 
-- 🔭 I’m currently working on [Hotel Management System](https://github.com/Pratik5767/Hotel-Management-System)
+- 🔭 I’m currently working on **Full Stack Java Projects**
 
 - 🌱 I’m currently learning **Java, MYSQL, JDBC, Spring core, Spring Boot, Microservices**
 
