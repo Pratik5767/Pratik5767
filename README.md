@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full Stack Java Projects**
 
-- 🌱 I’m currently learning **Java, MYSQL, JDBC, Spring core, Spring Boot, Microservices**
+- 🌱 I’m currently learning **Java, MySQL, JDBC, SpringBoot, Microservices**
 
 - 👯 I’m looking to collaborate on **Java, Python, Full stack Projects**
 
