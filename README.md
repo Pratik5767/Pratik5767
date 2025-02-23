@@ -5,15 +5,15 @@
 
 ## 💫 About Me:
 
-- 🔭 I’m currently working on **Full Stack Java Projects**
+- 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **Java, MySQL, JDBC, SpringBoot, Microservices**
+- 🌱 I’m currently learning **SpringBoot, Microservices**
 
-- 👯 I’m looking to collaborate on **Java, Python, Full stack Projects**
+- 👯 I’m looking to collaborate on **Java, Python, Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pratik5767](https://github.com/Pratik5767)
 
-- 💬 Ask me about **Java, Python, React, MYSQL and backend development**
+- 💬 Ask me about **Java, Python, React, MYSQL and Backend development**
 
 - 📫 How to reach me **pratikvsalunkhe924@gmail.com**
 
