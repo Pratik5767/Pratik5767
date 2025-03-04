@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **SpringBoot, Microservices**
+- 🌱 I’m currently learning **SpringBoot and Microservices**
 
 - 👯 I’m looking to collaborate on **Java, Python, Full Stack Development**
 
