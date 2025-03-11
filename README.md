@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pratik5767](https://github.com/Pratik5767)
 
-- 💬 Ask me about **Java, Python, React, MYSQL and Backend development**
+- 💬 Ask me about **Frontend and Backend development**
 
 - 📫 How to reach me **pratikvsalunkhe924@gmail.com**
 
