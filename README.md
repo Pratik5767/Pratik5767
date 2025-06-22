@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **SpringBoot and Microservices**
+- 🌱 I’m currently learning **Devops**
 
-- 👯 I’m looking to collaborate on **Java, Python, Full Stack Development**
+- 👯 I’m looking to collaborate on **Java, Backend Development, Full Stack Development and Devops**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pratik5767](https://github.com/Pratik5767)
+- 👨‍💻 All of my projects are available here => [MyRepo](https://github.com/Pratik5767?tab=repositories)
 
 - 💬 Ask me about **Frontend and Backend development**
 
