@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available here => [MyRepo](https://github.com/Pratik5767?tab=repositories)
 
-- 💬 Ask me about **Frontend and Backend development**
+- 💬 Ask me about **Backend development and Full stack development**
 
 - 📫 How to reach me **pratikvsalunkhe924@gmail.com**
 
