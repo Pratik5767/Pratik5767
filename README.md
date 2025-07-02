@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👯 I’m looking to collaborate on **Java, Backend Development, Full Stack Development and Devops**
+- 👯 I’m looking to collaborate on **Java, Backend, and Devops**
 
 - 👨‍💻 All of my projects are available here => [MyRepo](https://github.com/Pratik5767?tab=repositories)
 
