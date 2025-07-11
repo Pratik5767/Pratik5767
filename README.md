@@ -3,23 +3,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik5767&label=Profile%20views&color=0e75b6&style=flat" alt="pratik5767" /> </p>
 
-## 💫 About Me:
+### 🚀 About Me
+- 🔭 Currently working on **full-stack web development projects**
 
-- 🔭 I’m currently working on **Full Stack Projects**
+- 🌱 Actively learning **DevOps** tools and best practices
 
-- 🌱 I’m currently learning **Devops**
+- 🤝 Open to collaboration in **Java, Backend Development, and DevOps**
 
-- 👯 I’m looking to collaborate on **Java, Backend, and Devops**
+- 💻 Explore my work here: [GitHub Repositories](https://github.com/Pratik5767?tab=repositories)
 
-- 👨‍💻 All of my projects are available here => [MyRepo](https://github.com/Pratik5767?tab=repositories)
+- 💬 Feel free to reach out about **backend development**, **full-stack technologies**, or related topics
 
-- 💬 Ask me about **Backend development and Full stack development**
-
-- 📫 How to reach me **pratikvsalunkhe924@gmail.com**
+- 📫 Contact me at: **pratikvsalunkhe924@gmail.com**
 
 ## 🌐 Let's connect:
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratik_salunkhe990)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-salunkhe-84157a269/)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Pratik5767&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -53,8 +56,12 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik5767&show_icons=true&locale=en&layout=compact" alt="pratik5767" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratik5767&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Pratik5767&theme=dark&hide_border=false" height="200"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik5767&show_icons=true&locale=en" alt="pratik5767" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratik5767&" alt="pratik5767" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik5767&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
