@@ -56,6 +56,12 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pratik5767&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Pratik5767&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik5767&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratik5767&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Pratik5767&theme=dark&hide_border=false" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik5767&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
