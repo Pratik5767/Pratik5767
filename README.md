@@ -12,7 +12,7 @@
   <tr>
     <td width="55%" valign="top">
 
-### 🚀 About Me
+## 🚀 About Me
 
 - 🔭 Working on **Data Engineering & Backend projects** focused on scalable data pipelines  
 - 🌱 Building expertise in **Data Engineering, Google Cloud Platform (GCP), and Big Data tools**  
@@ -33,13 +33,16 @@
   </tr>
 </table>
 
+
 ## 🌐 Let's connect:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratik_salunkhe990)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-salunkhe-84157a269/)
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pratik5767&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -51,13 +54,11 @@
 ![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21.svg?style=for-the-badge&logo=apachehive&logoColor=black)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/apache%20airflow-%23017CEE.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Google Pub/Sub](https://img.shields.io/badge/Google%20Pub%2FSub-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Google BigQuery](https://img.shields.io/badge/BigQuery-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-EF3E3E.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
