@@ -1,28 +1,18 @@
 <h1 align="center">Hi 👋, I'm Pratik Vishwas Salunkhe</h1>
 
 <h3 align="center">
-  Data Engineering enthusiast with hands-on experience in Java, SQL, and cloud technologies, passionate about transforming raw data into meaningful insights through scalable data pipelines.
+  Data engineering enthusiast with experience in Java, SQL, and cloud-driven data processing.
 </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pratik5767&label=Profile%20views&color=0e75b6&style=flat" alt="pratik5767" />
 </p>
 
-<table align="center" width="100%">
+<table>
   <tr>
-    <td align="center">
-      <img 
-        src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
-        alt="Data Engineering & Cloud"
-        style="max-width:100%; height:auto;"
-      />
-    </td>
-  </tr>
+    <td width="55%" valign="top">
 
-  <tr>
-    <td width="100%" align="left">
-
-## 🚀 About Me
+### 🚀 About Me
 
 - 🔭 Working on **Data Engineering & Backend projects** focused on scalable data pipelines  
 - 🌱 Building expertise in **Data Engineering, Google Cloud Platform (GCP), and Big Data tools**  
@@ -31,6 +21,14 @@
 - 💬 Ask me about **Data Engineering, Java, SQL, BigQuery, Pub/Sub, Dataflow**  
 - 📫 Reach me at: **pratikvsalunkhe924@gmail.com**
 
+    </td>
+
+    <td width="45%" align="center">
+       <img 
+        src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
+        alt="Data Engineering & Cloud"
+        style="max-width:100%; height:auto;"
+      />
     </td>
   </tr>
 </table>
