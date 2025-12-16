@@ -8,9 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=pratik5767&label=Profile%20views&color=0e75b6&style=flat" alt="pratik5767" />
 </p>
 
-<table>
+<table align="center" width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="100%" align="left">
 
 ### 🚀 About Me
 
@@ -22,13 +22,15 @@
 - 📫 Reach me at: **pratikvsalunkhe924@gmail.com**
 
 </td>
+</tr>
 
-<td width="40%" align="center">
+<tr>
+<td align="center">
 
 <img 
   src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
-  alt="Data Engineering & Cloud" 
-  width="380"
+  alt="Data Engineering & Cloud"
+  style="max-width:100%; height:auto;"
 />
 
 </td>
