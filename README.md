@@ -8,21 +8,32 @@
   <img src="https://komarev.com/ghpvc/?username=pratik5767&label=Profile%20views&color=0e75b6&style=flat" alt="pratik5767" />
 </p>
 
-<img align="right" alt="Data Engineering" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ### 🚀 About Me
-- 🔭 Working on **data engineering and backend projects** focused on data pipelines and processing
 
-- 🌱 Actively building skills in **Data Engineering, Cloud Platforms (GCP), and Big Data tools**
+- 🔭 Working on **Data Engineering & Backend projects** focused on scalable data pipelines  
+- 🌱 Building expertise in **Data Engineering, Google Cloud Platform (GCP), and Big Data tools**  
+- 🤝 Open to collaborating on **data pipelines, cloud-based data systems, and backend engineering**  
+- 💻 Explore my work: [GitHub Repositories](https://github.com/Pratik5767?tab=repositories)  
+- 💬 Ask me about **Data Engineering, Java, SQL, BigQuery, Pub/Sub, Dataflow**  
+- 📫 Reach me at: **pratikvsalunkhe924@gmail.com**
 
-- 🤝 Open to collaboration on **data pipelines, backend systems, and cloud data projects**
+</td>
 
-- 💻 Explore my work here: [GitHub Repositories](https://github.com/Pratik5767?tab=repositories)
+<td width="40%" align="center">
 
-- 💬 Feel free to reach out about **Data Engineering**, **Java**, **SQL**, and **Cloud-based data solutions**
+<img 
+  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
+  alt="Data Engineering & Cloud" 
+  width="380"
+/>
 
-- 📫 Contact me at: **pratikvsalunkhe924@gmail.com**
-
+</td>
+</tr>
+</table>
 
 ## 🌐 Let's connect:
 
