@@ -9,10 +9,20 @@
 </p>
 
 <table align="center" width="100%">
-<tr>
-<td width="100%" align="left">
+  <tr>
+    <td align="center">
+      <img 
+        src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
+        alt="Data Engineering & Cloud"
+        style="max-width:100%; height:auto;"
+      />
+    </td>
+  </tr>
 
-### 🚀 About Me
+  <tr>
+    <td width="100%" align="left">
+
+## 🚀 About Me
 
 - 🔭 Working on **Data Engineering & Backend projects** focused on scalable data pipelines  
 - 🌱 Building expertise in **Data Engineering, Google Cloud Platform (GCP), and Big Data tools**  
@@ -21,20 +31,8 @@
 - 💬 Ask me about **Data Engineering, Java, SQL, BigQuery, Pub/Sub, Dataflow**  
 - 📫 Reach me at: **pratikvsalunkhe924@gmail.com**
 
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<img 
-  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
-  alt="Data Engineering & Cloud"
-  style="max-width:100%; height:auto;"
-/>
-
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 ## 🌐 Let's connect:
