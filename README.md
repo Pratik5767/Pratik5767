@@ -15,10 +15,10 @@
 ## 🚀 About Me
 
 - 🔭 Working on **Data Engineering & Backend projects** focused on scalable data pipelines  
-- 🌱 Building expertise in **Data Engineering, Google Cloud Platform (GCP), and Big Data tools**  
-- 🤝 Open to collaborating on **data pipelines, cloud-based data systems, and backend engineering**  
+- 🌱 Actively developing skills in **Data Engineering, AWS, Azure, and Big Data technologies**  
+- 🤝 Open to collaborating on **data pipelines, cloud-based data platforms, and backend engineering projects**  
 - 💻 Explore my work: [GitHub Repositories](https://github.com/Pratik5767?tab=repositories)  
-- 💬 Ask me about **Data Engineering, Java, SQL, BigQuery, Pub/Sub, Dataflow**  
+- 💬 Ask me about **Data Engineering, Java, SQL, ETL pipelines, AWS services, and Azure data solutions**  
 - 📫 Reach me at: **pratikvsalunkhe924@gmail.com**
 
     </td>
@@ -56,9 +56,7 @@
 ![Apache Airflow](https://img.shields.io/badge/apache%20airflow-%23017CEE.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-EF3E3E.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
