@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Vishwas Salunkhe</h1>
 
 <h3 align="center">
-  Data engineering enthusiast with experience in Java, SQL, and cloud-driven data processing.
+AI & Data Engineer | Real-Time Data Systems | Scalable Data & Intelligent Pipelines
 </h3>
 
 <p align="left">
@@ -14,11 +14,11 @@
 
 ## 🚀 About Me
 
-- 🔭 Working on **Data Engineering & Backend projects** focused on scalable data pipelines  
-- 🌱 Actively developing skills in **Data Engineering, AWS, Azure, and Big Data technologies**  
-- 🤝 Open to collaborating on **data pipelines, cloud-based data platforms, and backend engineering projects**  
+- 🔭 Working on **Real-time data pipelines and distributed processing systems** focused on scalable data pipelines  
+- 🌱 Actively developing skills in **Data Engineering, AWS, Big Data and AI-driven data workflows**  
+- 🤝 Open to collaborating on **Data pipelines, AI Systems, Cloud-based platforms and backend engineering projects**  
 - 💻 Explore my work: [GitHub Repositories](https://github.com/Pratik5767?tab=repositories)  
-- 💬 Ask me about **Data Engineering, Java, SQL, ETL pipelines, AWS services, and Azure data solutions**  
+- 💬 Ask me about **Real-Time Data Engineering, Distributed Systems, ETL/ELT Pipelines, SQL Optimization, and Cloud-Based Data Architectures**
 - 📫 Reach me at: **pratikvsalunkhe924@gmail.com**
 
     </td>
@@ -26,7 +26,7 @@
     <td width="45%" align="center">
        <img 
         src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
-        alt="Data Engineering & Cloud"
+        alt="Data Engineering & AI"
         style="max-width:100%; height:auto;"
       />
     </td>
@@ -45,7 +45,6 @@
 
 
 ## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -61,6 +60,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
