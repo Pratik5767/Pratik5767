@@ -15,7 +15,7 @@ AI & Data Engineer | Real-Time Data Systems | Scalable Data & Intelligent Pipeli
 ## 🚀 About Me
 
 - 🔭 Working on **Real-time data pipelines and distributed processing systems** focused on scalable data pipelines  
-- 🌱 Actively developing skills in **Data Engineering, AWS, Big Data and AI-driven data workflows**  
+- 🌱 Actively developing skills in **Data Engineering, Azure, Big Data and AI-driven data workflows**  
 - 🤝 Open to collaborating on **Data pipelines, AI Systems, Cloud-based platforms and backend engineering projects**  
 - 💻 Explore my work: [GitHub Repositories](https://github.com/Pratik5767?tab=repositories)  
 - 💬 Ask me about **Real-Time Data Engineering, Distributed Systems, ETL/ELT Pipelines, SQL Optimization, and Cloud-Based Data Architectures**
